@@ -1,0 +1,109 @@
+
+JavaScript Weekly
+Issue 226 — April 3, 2015
+The Rise of TypeScript?
+TJ VanToll on the importance of the TypeScript + AngularJS announcement and why TypeScript may finally break through to the mainstream as a compile to JavaScript solution.
+TELERIK DEVELOPER NETWORK
+
+ECMAScript 6 Feature Overview and Comparison
+A code-example-only reference to 34 key differences in, or features of, ES6.
+RALF S. ENGELSCHALL
+
+Babel (previously 6to5) 5.0.0 Released
+Babel, the ES6+ to ES5 transpiler, now includes some React optimizations, and three new ES7 proposals: decorators, class properties, and export extensions. If you want to work with the future of JavaScript today, Babel is a great option.
+SEBASTIAN MCKENZIE
+
+Online/In-Person Workshop: Async JS with Jafar Husain (Netflix and TC39)
+Learning how to build and manage async programs is perhaps the most important part of becoming an effective JavaScript programmer. Use familiar Array methods to create surprisingly expressive async programs.
+Come join Jafar Husain on April 18th & 19th to learn async JS!
+FRONTEND MASTERS   SPONSORED
+
+
+Airbnb's ES6 Style Guide
+Their ES5 version has been popular, but now they have an ES6 version too.
+AIRBNB
+
+Angular 2 Rendering Architecture
+A Google Doc outlining the objectives and design approaches of the rendering architecture coming in the under-development Angular 2.
+GOOGLE
+
+Amok: Live Editing for JavaScript
+A cross-platform, open source command line tool for rapid prototyping. Monitors changes in files, then preprocesses, compiles, bundles, and reloads.
+CASPER BEYER
+
+Learn AngularJS: An Interactive Course
+The third free interactive AngularJS course we’ve linked in as many issues, but this time from Codecademy. This focuses on Angular 1.x.
+CODECADEMY
+
+Jobs
+
+Senior Front End Engineer at New Relic (Barcelona, Spain)New Relic, the software analytics company, is looking for an experienced senior front-end engineer with extensive experience with JavaScript.
+NEW RELIC
+Senior Frontend Developer at moviepilot.com (Berlin)We are looking for an experienced JavaScript developer to join our international team in Berlin. Join us and help us build the world’s best platform for fans to talk about pop culture.
+MOVIEPILOT INC.
+Hired gives top web developers more power in their job search.You'll create a profile & over 1 week tech companies will apply to you! You'll get salary/equity offers upfront & you're under no obligation to accept any offer. Interested? Join Hired today.
+HIRED.COM
+In brief
+
+A Preview of WinJS 4.0 NEWS 
+MICROSOFT
+Polymer 0.8 Available: For Early Adopters Only NEWS 
+0.8, an ‘alpha’ release, aims to present a proposed API for a final 1.0 release.  
+POLYMER
+Announcing TypeScript 1.5 Alpha NEWS 
+MICROSOFT
+Meteor 1.1 Released: Now Supports Windows and MongoDB 3.0 NEWS 
+METEOR
+WebStorm 10 Released: Improved JavaScript Support, TypeScript 1.4, V8 Profiling, and More NEWS TOOLS 
+JETBRAINS
+Unit Testing Ajax Requests with Mocha TUTORIAL 
+JANI HARTIKAINEN
+Writing Client-Side ES6 with Webpack TUTORIAL 
+webpack is a client-side module builder and module loader.  
+DR. AXEL RAUSCHMAYER
+Understanding Two-Way Data Binding in AngularJS TUTORIAL 
+SITEPOINT
+Building Custom React Native Components From Scratch TUTORIAL 
+A thorough tutorial on going beyond what React Native offers out of the box using Objective C.  
+JAY GARCIA
+Strategies for Dealing with Multiple Ajax Calls TUTORIAL 
+RAYMOND CAMDEN
+Simple Inheritance with JavaScript TUTORIAL 
+SITEPOINT
+JavaScript's 'bind' Explained in 5 Minutes VIDEO 
+DANIEL STERN
+Handlebars Subexpressions VIDEO 
+EMBER SCREENCASTS
+Get Your Node.js Application Running in Minutes TOOLS SPONSORED 
+Modulus is an easy to use Node.js hosting platform that lets you run your applications anywhere. 
+MODULUS
+Introducing the npm Semantic Version Calculator TOOLS 
+A handy tool to work out which ranges match what when choosing package versions.  
+THE NPM BLOG
+SQL Source Control: track each change to your SQL Server database SPONSORED TOOLS 
+Get a full history in your source control system. See who made changes, what they did & why. See how. 
+RED GATE SOFTWARE
+React.parts: A Catalog of React Native Components CODE 
+REACT.PARTS
+Vectorious: A Generalized n-dimensional Matrix and Vector Library CODE 
+MATEO GIANOLIO
+Halogen: A Collection of Loading Spinners with React.js CODE 
+YUANYAN
+An AngularJS App Backed by Go to Show and Rate Puppies CODE 
+Cutesy topic aside, if you want to bring together Angular and Go at all, here’s some code to read.  
+SESHACHALAM MALISETTI
+Github.js: Embed User, Repo or Org Profile/Activity Info on a Page CODE 
+AKSHAY SHARMA
+get-next: Simple HTTP GET Wrapper with Chainable Calls CODE 
+JORGE BUCARAN
+Space.js: HTML-Driven Narrative 3D-scrolling CODE 
+There’s an article with some background.  
+PATRIK GÖTHE
+Osmosis: HTML/XML Parser and Web Scraper for Node CODE NODE 
+Uses libxml and has a nice clean chainable API.  
+RC0X03
+Curated by Peter Cooper and published by Cooper Press.
+
+Stop getting JavaScript Weekly : Change email address : Read this issue on the Web
+
+© Cooper Press Ltd. Office 30, Lincoln Way, Louth, LN11 0LS, UK
